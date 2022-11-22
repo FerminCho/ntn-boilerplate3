@@ -19,4 +19,4 @@ export default {
     return { posts };
   },
 }
-</script>
+</script> 
