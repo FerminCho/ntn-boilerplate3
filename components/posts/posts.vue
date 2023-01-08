@@ -1,4 +1,4 @@
-<template>
+<--!<template>
   <ul v-if="posts.length > 0" class="cards">
     <li
       v-for="(post, index) in posts"
@@ -106,4 +106,4 @@
       }
     },
   }
-</script>
+</script>-->
